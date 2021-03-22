@@ -37,6 +37,8 @@ li {
 
 li:hover {
     cursor: pointer;
+    text-decoration: underline;
+
 }
 
 #sign_in {
@@ -64,8 +66,8 @@ img {
 }
 
 input {
-    height: 45px;
-    border-radius: 20px;
+    height: 48px;
+    border-radius: 22px;
     width: 100%;
     align-content: center;
     padding-left: 10px;
@@ -108,6 +110,8 @@ footer {
     background-color: #f2f2f2;
     display: flex;
     justify-content: space-between;
+    height: 80px;
+    vertical-align: center;
 }
 
 .footer-left {
