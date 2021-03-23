@@ -41,9 +41,10 @@ li:hover {
 
 }
 
-#sign_in {
+#sign_in>a {
     background-color: #4285F4;
     border-radius: 5px;
+    padding: 10px 20px;
     color: white;
 }
 
